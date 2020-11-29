@@ -3,13 +3,22 @@
 banner() {
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[93m  ██████   █████   ██    ██  █████    ███    ██     ██████   ████████  ██  ██   ██████   ██     \e[0m\n"
-printf "\e[0m\e[93m  ██ ██   ██  ██  ██    ██  ██ ██   ████   ██     ██  ██ ██    ██ ██  ██  ██ ██   ██      \e[0m\n"
-printf "\e[0m\e[93m  ██████  ███████  ██    ██ ███████  ██ ██ ██     ██████  ██     ██   ████   ██████   ██      \e[0m\n"
-printf "\e[0m\e[93m  ██      ██    ██  ██  ██  ██  ██  ██ ██     ██  ██  ██   ██     ██      ██    ██      \e[0m\n"
-printf "\e[0m\e[93m  ██      ██   ██   ████   ██   ██ ██   ████     ██   ██  ██████     ██    ██   ██  ███████ \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf "\e[0m\e[92m  ________                                \e[0m\e[93m ________                     ______ \e[0m\n"
+printf "\e[0m\e[92m  ___  __ \_____ ___   _______ _______   \e[0m\e[93m  ___  __ \__________  _______ ___  /  \e[0m\n"
+printf "\e[0m\e[92m  __  /_/ /  __ `/_ | / /  __ `/_  __ \  \e[0m\e[93m  __  /_/ /  __ \_  / / /  __ `/_  /   \e[0m\n"
+printf "\e[0m\e[92m  _  ____// /_/ /__ |/ // /_/ /_  / / / \e[0m\e[93m   _  _, _// /_/ /  /_/ // /_/ /_  /    \e[0m\n"
+printf "\e[0m\e[92m /_/     \__,_/ _____/ \__,_/ /_/ /_/   \e[0m\e[93m   /_/ |_| \____/_\__, / \__,_/ /_/     \e[0m\n"
+printf "                                                    \e[0m\e[93m                /____/                 \e[0m\n"
 printf "\e[0m\n"
-printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ platforms by PAVAN ROYAL \e[0m\n"
+printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : PAVAN ROYAL ]\e[0m\n"
+printf "\e[0m\n"
+printf "\e[0m\e[92m              AUTHOR \e[0m\e[91m     :\e[0m\e[93m PAVAN-ROYAL \e[0m\e[91m[\e[0m\e[93m -LUCIFER\e[0m\e[91m]\e[0m\n"
+printf "\e[0m\n"
+printf "\e[0m\e[92m          Instagram \e[0m\e[91m  : \e[0m\e[96m PAVANROYAL_PR\e[0m\n"
+printf "\e[0m\n"
+printf "\e[0m\e[92m              Version \e[0m\e[91m    : \e[0m\e[93m1.0\e[0m\n"
+printf "\e[0m\n"
+printf "                        \e[0m\e[1;44m ONLY FOR EDUCATIONAL PURPOSE \e[0m\n"
 printf "\e[0m\n"
 }
 banner
